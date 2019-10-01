@@ -1,0 +1,124 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#content {
+    width: 350px;
+    height: 450px;
+    background: pink;
+    float: left;
+    margin: 70px 450px;
+    border-radius: 8px;
+    border: outset;
+}
+
+input[type=text]{
+    width: 320px;
+    height: 100px;
+     background:lightgrey;
+    float: left;
+    margin: 20px 15px;
+    border-radius: 10px;
+     margin-top: -80px;
+    color: white;
+    font-size: 35px;
+
+}
+input[type=button]{
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 30px 18px;
+    clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    font-size: 25px;
+    text-align: center;
+    border-style: outset;
+     margin-top: 5px;
+}
+input[type=button]:active{
+    background-color: white;
+    box-shadow: 0 5px #8f8f91;
+    transform: translateY(4px);
+}
+
+#content #cont2 .button1{
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 30px 18px;
+    clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    font-size: 25px;
+    text-align: center;
+    border-style: outset;
+    margin-top:6px;
+}
+
+#content #cont2 {
+
+    margin-top: 100px;
+}
+#content #cont2 .Ser{
+
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 30px 18px;
+     clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+font-size: 25px;
+    text-align: center;
+ border-style: outset;
+
+
+}
+#content  #cont3 .Ser{
+
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 0px 18px;
+    clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+     font-size: 25px;
+    border-style: outset;
+
+}
+
+#content  #cont4 .Ser{
+
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 0px 18px;
+    clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    font-size: 25px;
+    border-style: outset;
+
+}
+#content  #cont5 .Ser{
+
+    background: white;
+    float: left;
+    height: 40px ;
+    width: 50px;
+    margin: 30px 18px;
+    clear: right;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    font-size: 25px;
+    border-style: outset;
+
+}

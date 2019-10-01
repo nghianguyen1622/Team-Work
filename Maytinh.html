@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../css/MaytinhStyle.css">
+    <script src="../js/may.js"></script>
+
+
+</head>
+<body>
+
+<div id = "content">
+
+    <form name="maytinh">
+
+    <input type="text"  name="manhinh"  placeholder="0" style="color: white"/>
+
+
+    <div id="cont2">
+<!--        <form>-->
+<!--            <div class="ser"></div> <input type="button" name="but1" value="1"/>-->
+<!--        </form>&lt;!&ndash;     -->
+<!--          <button class="Ser" >1&ndash;&gt;-->
+<!--    </div>-->
+<!--    <button class="Ser"  onclick="1">1-->
+
+<!--        </button>-->
+        <input type="button" value="1" onclick="maytinh.manhinh.value+='1'"/>
+        <input type="button" value="2" onclick="maytinh.manhinh.value+='2'"/>
+
+        <input type="button" value="3" onclick="maytinh.manhinh.value+='3'"/>
+        <input type="button" value="AC" onclick="btnclear()"/>
+
+
+    </div>
+    <div id="cont3">
+
+        <input type="button" value="4" onclick="maytinh.manhinh.value+='4'"/>
+        <input type="button" value="5" onclick="maytinh.manhinh.value+='5'"/>
+        <input type="button" value="6" onclick="maytinh.manhinh.value+='6'"/>
+        <input type="button" value="+" onclick="btnplus()"/>
+    </div>
+    <div id="cont5">
+        <input type="button" value="7" onclick="maytinh.manhinh.value+='7'"/>
+        <input type="button" value="8" onclick="maytinh.manhinh.value+='8'"/>
+        <input type="button" value="9" onclick="maytinh.manhinh.value+='9'"/>
+        <input type="button" value="-" onclick="btnsub()"/>
+    </div>
+    <div id="cont4">
+        <input type="button" value="0" onclick="maytinh.manhinh.value+='0'"/>
+        <input type="button" value="*" onclick="btnnhan()"/>
+        <input type="button" value="/" onclick="btndiv()"/>
+        <input type="button" value="=" onclick="document.maytinh.manhinh.value=eval(document.maytinh.manhinh.value)"/>
+
+        </button>
+    </div>
+    </form>
+
+</div>
+</body>
+</html>
