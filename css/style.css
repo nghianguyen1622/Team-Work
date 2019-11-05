@@ -332,14 +332,13 @@ a:hover {
 }
 
 .text-center i {
-	margin-top:70px;
+	margin-top:30px;
 	margin-bottom:30px;
 	color:#fff;
-    margin-left: 15px;
 	background:#dddddd;
 	border-radius:50%;
 }
-.
+
 
 .text-center h2 {
 	margin-top:20px;
@@ -1330,6 +1329,7 @@ a:hover,a:focus{
     border: 3px solid #e5e5e5;
 
 }
+/*=====Group Diary=====*/
 .imgGr{
     margin-top: 20px;
     width: 100%;
@@ -1355,11 +1355,12 @@ a:hover,a:focus{
 }
 .mauTiendo{
     background: #6EFF4E;
+    text-align: center;
 }
-
-
-
-/*test*/
+.numberGr{
+    text-align: center;
+}
+/*===end group diary=====*/
 
 
 
