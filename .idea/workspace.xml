@@ -11,7 +11,7 @@
   <component name="ProjectId" id="1SvuQmI640RauC8N4TUAR1xLojF" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/17130136_Nguyen Van Nghia" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,6 +54,7 @@
       <workItem from="1572946039853" duration="872000" />
       <workItem from="1572970614554" duration="1130000" />
       <workItem from="1572972622555" duration="3101000" />
+      <workItem from="1572985057818" duration="50000" />
     </task>
     <servers />
   </component>
