@@ -1,7 +1,7 @@
 /*
     Theme Name: Company
     Theme URL: https://bootstrapmade.com/company-free-html-bootstrap-template/
-    Author: BootstrapMade
+    Author: group13
     Author URL: https://bootstrapmade.com
 */
 
@@ -337,8 +337,33 @@ a:hover {
 	color:#fff;
 	background:#dddddd;
 	border-radius:50%;
-}
+    /*    margin-top: 30px;*/
+    /*    margin-bottom: 30px;*/
+    /*    padding: 50px;*/
+    /*    color: #fff;*/
+    /*    background: #1bbd36;*/
+    /*    border-radius: 50%;*/
+    /*    font-size: 40px;*/
 
+}
+/*.text-center .sua{*/
+/*    margin-top: 30px;*/
+/*    margin-bottom: 30px;*/
+/*    padding: 50px;*/
+/*    color: #fff;*/
+/*    background: #1bbd36;*/
+/*    border-radius: 50%;*/
+/*    font-size: 40px;*/
+/*}*/
+#suaphanhome{
+    font-size: 40px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    color: #fff;
+    padding: 50px;
+    background: #1BBD36;
+    border-radius: 50%;
+}
 
 .text-center h2 {
 	margin-top:20px;
