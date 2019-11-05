@@ -11,7 +11,7 @@
   <component name="ProjectId" id="1SvuQmI640RauC8N4TUAR1xLojF" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../17130136_Nguyen Van Nghia" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/nghia" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -21,8 +21,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Admin\WebstormProjects\hci2019group13-3\images" />
       <recent name="C:\Users\Admin\WebstormProjects\hci2019group13-3\images\nghia" />
+      <recent name="C:\Users\Admin\WebstormProjects\hci2019group13-3\images" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,6 +51,7 @@
       <workItem from="1572772375843" duration="2168000" />
       <workItem from="1572804393729" duration="137000" />
       <workItem from="1572933100695" duration="12485000" />
+      <workItem from="1572946039853" duration="872000" />
     </task>
     <servers />
   </component>
