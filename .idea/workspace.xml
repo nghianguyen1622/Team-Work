@@ -8,10 +8,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1SvuQmI640RauC8N4TUAR1xLojF" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,7 +61,7 @@
       <workItem from="1572933100695" duration="12485000" />
       <workItem from="1572946039853" duration="872000" />
       <workItem from="1573028126179" duration="160000" />
-      <workItem from="1573028318929" duration="456000" />
+      <workItem from="1573028318929" duration="956000" />
     </task>
     <servers />
   </component>
