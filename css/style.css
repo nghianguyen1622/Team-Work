@@ -16,7 +16,7 @@
 body {
 	font-family:'Open Sans', Arial, sans-serif;
 	font-size:14px;
-	font-weight:300;
+	font-weight:200;
 	line-height:1.6em;
 	color:#fff;
 	background-color:#fff;
@@ -101,10 +101,11 @@ a:hover {
 }
 
 .navbar-brand h1 {
-	margin-top:9px;
-	padding-top:5px;
+	margin-top:-3px;
+	/*padding-top:5px;*/
 	float: left;
-	font-size: 30px;
+    margin-left: -50px;
+	font-size: 27px;
 	color:#333;
 	text-transform:uppercase;
 	font-weight:900;
@@ -132,9 +133,12 @@ a:hover {
 	margin-bottom: 0;
 }
 .nav-tabs > li > a {
+    float: left;
+    margin-left: 1px;
 	border-radius:0;
+    font-size: 15px;
 	color:#333;
-	padding:30px;
+	padding:18px;
 }
 
 .nav-tabs > li > a:hover {
@@ -1317,11 +1321,17 @@ a:hover,a:focus{
 .tab .nav-tabs li a:hover:before{ transform: scaleX(1); }
 .tab .tab-content{
     padding: 10px;
-    font-size: 17px;
+    font-size: 16px;
+    font-weight: 100;
+    font-family: "Work Sans", sans-serif;
     color: #6f6f6f;
     line-height: 30px;
     letter-spacing: 1px;
     position: relative;
+}
+.tab .tab-content p{
+    font-weight: 100;
+    font-family: "Work Sans", sans-serif;
 }
 @media only screen and (max-width: 479px){
     .tab .nav-tabs{ border: none; }
@@ -1345,13 +1355,13 @@ a:hover,a:focus{
     }
 }
 .tab-content .tab-pane table{
-    border: 3px solid #e5e5e5;
+    border: 1px solid #5e5e5e;
 }
 .tab-content .tab-pane table tr{
-    border: 3px solid #e5e5e5;
+    border: 1px solid #5e5e5e;
 }
 .tab-content .tab-pane table tr th{
-    border: 3px solid #e5e5e5;
+    border: 1px solid #5e5e5e;
 
 }
 /*=====Group Diary=====*/
@@ -1386,6 +1396,78 @@ a:hover,a:focus{
     text-align: center;
 }
 /*===end group diary=====*/
+/*==========project=======*/
+.tabcontent-project table{
+    border: 1px solid black;
+}
+.tabcontent-project th{
+    border: 1px solid black;
+}
+.tabcontent-project tr{
+    border: 1px solid black;
+}
+.tabcontent-project thead{
+    border: 1px solid black;
+}
+/*===project (implement)========*/
+.tabcontent-project table{
+    width: 1150px;
+
+}
+.tabcontent-project table p{
+    margin-left: 5px;
+    color: black;
+}
+.project-13{
+    text-align: center;
+    margin-left: -10px;
+
+}
+.mau_project{
+    background: #1BBD36;
+    color: #F2F2F2;
+}
+.contentpj{
+    width: 100%;
+    height: 150px;
+    border: 1px solid #5e5e5e;
+}
+.contentpj .result-pj{
+    width: 100%;
+    float: left;
+    height: 40px;
+    border-bottom: 1px solid #5e5e5e;
+    /*background: #eeeeee;*/
+    background-color: rgba(0,0,0,.03);
+    color: #F2F2F2;
+}
+.contentpj .result-pj h4{
+    text-align: center;
+    color: #000000;
+}
+.link-pj{
+    float: left;
+    width: 100%;
+    height: 55px;
+}
+.contentpj .link-pj h5{
+    float: left;
+    clear: right;
+    margin-left: 30px;
+}
+.contentpj .link-pj a{
+    float: right;
+    height: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    display: inline-block;
+    color: #1bbd36;
+}
+.contentpj .back-end{
+    border-top: 1px solid #5e5e5e;
+}
+/*=====end project====*/
+
 
 
 

@@ -12,11 +12,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1SvuQmI640RauC8N4TUAR1xLojF" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -63,7 +65,10 @@
       <workItem from="1573028126179" duration="160000" />
       <workItem from="1573028318929" duration="1789000" />
       <workItem from="1573062923666" duration="37000" />
-      <workItem from="1574292863739" duration="85000" />
+      <workItem from="1574292863739" duration="687000" />
+      <workItem from="1574682056655" duration="1083000" />
+      <workItem from="1574687441930" duration="5512000" />
+      <workItem from="1574711513545" duration="7835000" />
     </task>
     <servers />
   </component>

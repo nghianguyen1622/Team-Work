@@ -1,0 +1,10 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.tab-content .tabcontent-project table tr{
+    border: 1px solid black;
+}
+.tab-content .tabcontent-project table th{
+    border: 1px solid black;
+}
