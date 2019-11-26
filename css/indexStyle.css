@@ -1233,7 +1233,7 @@ ul.sidebar-gallery {
 }
 
 a.scrollup{
-    color:#fff;
+    color:#122b40;
     height:40px;
     width:40px;
     font-size:12px;
@@ -1246,11 +1246,12 @@ a.scrollup{
     opacity:1;
     border-radius:50%;
     z-index:999;
+    background-color:#e5e5e5;
 }
 a.scrollup:hover{
     opacity:1;
-    background-color:#ddd;
-    color:#1BBD36;
+    background-color:#1BBD36;
+    color:#fff;
 }
 /*sửa hình ảnh của tran about*/
 

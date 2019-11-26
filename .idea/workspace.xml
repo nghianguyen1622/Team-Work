@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd71f3b8-38e4-41ab-905d-fc5f0aa7fa6c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +16,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1SvuQmI640RauC8N4TUAR1xLojF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -35,15 +39,15 @@
       <recent name="C:\Users\Admin\WebstormProjects\hci2019group13-3\images" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -69,6 +73,10 @@
       <workItem from="1574682056655" duration="1083000" />
       <workItem from="1574687441930" duration="5512000" />
       <workItem from="1574711513545" duration="7835000" />
+      <workItem from="1574746615462" duration="4074000" />
+      <workItem from="1574785096206" duration="625000" />
+      <workItem from="1574785862884" duration="55000" />
+      <workItem from="1574786003299" duration="10650000" />
     </task>
     <servers />
   </component>

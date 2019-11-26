@@ -14,9 +14,9 @@
 
 
 body {
-	font-family:'Open Sans', Arial, sans-serif;
-	font-size:14px;
-	font-weight:200;
+    font-family: "Work Sans", sans-serif;
+    font-size:14px;
+	font-weight:100;
 	line-height:1.6em;
 	color:#fff;
 	background-color:#fff;
@@ -29,8 +29,9 @@ hi,h2,h3,h4,h5,h6 {
 }
 
 p {
-	color:#333;
-	font-size:13px;
+    font-family: "Work Sans", sans-serif;
+    color:#333;
+	font-size:14px;
 }
 a {
     text-decoration:none;
@@ -76,7 +77,7 @@ a:hover {
 
 #breadcrumb {
 	background-color: #1BBD36;
-	margin-top: -20px;
+	margin-top: -75px;
 }
 
 .breadcrumb {
@@ -88,7 +89,8 @@ a:hover {
 
 .breadcrumb li {
    text-transform:uppercase;
-   margin-top:125px;
+    float: left;
+   margin-top:135px;
    font-weight:600;
 }
 
@@ -454,7 +456,9 @@ a:hover {
 .aboutus {
 	padding:50px;
 }
-
+.aboutus .container{
+    margin-top: -50px;
+}
 .aboutus img {
 	border-radius:6px;
 }
@@ -576,7 +580,7 @@ a:hover {
 }
 
 .our-team {
-	padding:50px;
+	/*padding:50px;*/
 	background:#ddd;
 }
 
@@ -593,9 +597,18 @@ a:hover {
 
 .our-team img{
 	border-radius:50%;
-	margin-top:30px;
+	/*margin-top:30px;*/
 }
-
+.text-center .fadeInDown{
+    float: left;
+    margin-top: 30px;
+}
+.text-center .fadeInDown a i{
+    margin-top: -50px;
+}
+.text-center .fadeInDown p{
+    margin-top: -20px;
+}
 .lates {
 	padding:50px;
 }
@@ -1388,9 +1401,10 @@ a:hover,a:focus{
 .line h6{
     font-size: 16px;
 }
-.mauTiendo{
-    background: #6EFF4E;
-    text-align: center;
+.group-diary p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 14px;
+    color: black;
 }
 .numberGr{
     text-align: center;
@@ -1415,6 +1429,8 @@ a:hover,a:focus{
 
 }
 .tabcontent-project table p{
+    font-family: "Work Sans", sans-serif;
+    font-size: 14px;
     margin-left: 5px;
     color: black;
 }
@@ -1424,8 +1440,8 @@ a:hover,a:focus{
 
 }
 .mau_project{
-    background: #1BBD36;
-    color: #F2F2F2;
+    background: #5cb85c;
+    color: white;
 }
 .contentpj{
     width: 100%;
