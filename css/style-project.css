@@ -41,9 +41,9 @@ a:hover,a:focus{
     margin: 0 10px -1px 0;
     font-size: 14px;
     font-weight: 600;
-    color: #f7f7f9;
+    color: rgba(0, 0, 0, 1);
     text-transform: uppercase;
-    border: 2px solid #e6e5e1;
+    border: 2px solid #adaca8;
     border-bottom: none;
     border-radius: 5px 5px 0 0;
     z-index: 1;
