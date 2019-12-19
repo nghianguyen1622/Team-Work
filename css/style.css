@@ -24,7 +24,7 @@ body {
 }
 
 hi,h2,h3,h4,h5,h6 {
-	color:#333;
+	color: #000000;
 	line-height:1.1em;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 a:hover {
 	text-decoration: none;
-	color:#eee;
+	color: #030791;
 	}
 
 .btn-primary {
