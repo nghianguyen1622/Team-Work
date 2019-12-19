@@ -135,19 +135,19 @@ h6{
     padding: 1rem;
 }
 button.btn-click {
-    background: #288aab;
-    border: 3px #88a4d0 solid;
+    background: #f8faf8;
+    border: 3px #1bbd36 solid;
     border-radius: 10px;
     float: right;
-    color: white;
+    color: #f8faf8;
     cursor: pointer;
     font-size: 15px;
     font-weight: 400;
-    height: 30px;
+    /*height: 30px;*/
 }
 .btn-click:hover{
-    background: #2d527d;
-    color: black;
+    background: #1bbd36;
+    color: #fcfcfc;
     box-shadow: 5px 5px 5px 5px;
 
 }
