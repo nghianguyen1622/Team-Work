@@ -152,7 +152,7 @@ button.btn-click {
 
 }
 .btn-all{
-    background: rgba(27, 189, 54, 0.8);
+    background: rgba(253, 61, 0, 0.8);
     border-radius: 10px;
     cursor: pointer;
     margin-top: 20px;
@@ -161,7 +161,7 @@ button.btn-click {
     /*float: right;*/
 
     border: rgba(0, 123, 255, 0.71);
-    box-shadow: 3px 3px 3px 3px rgba(31, 31, 31, 0.79);
+    /*box-shadow: 3px 3px 3px 3px rgba(132, 132, 132, 0.79);*/
     color: white;
     /*cursor: pointer;*/
     /*margin-top: 150px;*/
@@ -172,12 +172,45 @@ button.btn-click {
 
 }
 .btn-all:hover{
-    background: rgb(27, 189, 54);
-    color: black;
-    box-shadow: 5px 5px 5px 5px;
+    background: rgba(253, 61, 0, 0.8);
+    /*background: rgb(27, 189, 54);*/
+    box-shadow: 3px 3px 3px 3px rgba(132, 132, 132, 0.79);
+    color: #fcfcfc;
+    /*box-shadow: 5px 5px 5px 5px;*/
 
 }
 img{
     height: 500px;
     width:490px
+}
+
+
+.font-end {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.font-end .card-body {
+    padding: 5px 5px;
+
+}
+.card-header .btn-success a:hover{
+    color: white!important;
+}
+.card-header .btn-link:hover{
+    text-decoration: none!important;
+
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
 }
