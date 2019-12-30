@@ -317,7 +317,7 @@ p {
     background-color: #ffffff;
     padding: 80px 30px 50px;
     border-radius: 10px;
-    box-shadow: 3px 0 15px -1px rgba(0, 0, 0, 0.15);
+    box-shadow: 4px 0 20px 1px rgba(0, 0, 0, 0.15);
     position: relative;
     z-index: 1;
     margin-top: 50px;
@@ -344,17 +344,32 @@ span {
     box-sizing: border-box;
 }
 .why-choose-us-content .chosse-us-icon img {
-    border-radius: 50%;
-}
-img {
+    -webkit-clip-path: polygon(50% 0%, calc(100% - 50%) 0%, 100% 50%, 100% calc(100% - 50%), calc(100% - 60%) 100%, 50% 100%, 0% calc(100% - 50%), 0% 50%);
+    clip-path: polygon(50% 0%, calc(100% - 50%) 0%, 100% 50%, 100% calc(100% - 50%), calc(100% - 50%) 100%, 50% 100%, 0% calc(100% - 50%), 0% 50%);
     width: 120px;
     height: 120px;
     margin: 0 0 0 28%;
 }
-/*img:hover{*/
-/*    box-shadow: 5px 5px 50px 5px rgb(173, 173, 173);*/
-/*}*/
+
+.why-choose-us-content .chosse-us-icon {
+    transition-duration: 800ms;
+    height: 76px;
+    width: 76px;
+    display: inline-block;
+    text-align: center;
+    line-height: 76px;
+    border-radius: 50%;
+    color: #ffffff;
+    font-size: 30px;
+    position: absolute;
+    top: -60px;
+    left: 39%;
+    margin-left: -38px;
+}
 
 *, ::after, ::before {
     box-sizing: border-box;
+}
+.tab .tab-content{
+    padding-top: 50px;
 }
