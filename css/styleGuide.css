@@ -214,5 +214,10 @@ img{
     /*padding: 8px 20px;*/
     margin-top: 10px;
 }
+.rm2:hover{
+    color: white;
+}
 
-
+.rm:hover{
+    color: white;
+}
