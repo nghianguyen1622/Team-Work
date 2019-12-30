@@ -267,11 +267,11 @@ p {
 }
 
 .task li a {
-    color: blue !important;
+    color: #1619ff !important;
 }
 
 .judge {
-    color: orangered !important;
+    color: #ff0002 !important;
 }
 
 .price-block {
