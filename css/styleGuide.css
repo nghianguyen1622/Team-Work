@@ -1,0 +1,218 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    font-size:14px;
+    font-weight:100;
+    line-height:1.6em;
+    color:#fff;
+    background-color:#fff;
+    overflow-x:hidden;
+}
+.box{
+    display: flex;
+}
+.box div{
+    margin: 5px;
+    margin-top: 20px;
+    text-align: center;
+    color: #000000;
+}
+.box div:nth-child(1){
+    background-color: #1bbd36;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50px;
+    border: 1px solid  #999999;
+}
+.box div:nth-child(2){
+    background-color: #ffffff;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50px;
+    border: 1px solid #999999;
+}
+.box div:nth-child(3){
+    background-color: #dddddd;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50px;
+    border: 1px solid #999999;
+}
+.box div:nth-child(4){
+    background-color: #333333;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50px;
+    border: 1px solid #999999;
+}
+
+.icon{
+    display: flex;
+}
+.icon div{
+    margin: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+}
+.icon div:nth-child(1){
+    background-color: #3b5998;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(2){
+    background-color: #1da1f2;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(3){
+    background-color: #dd4b39;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(4){
+    background-color: #bd081c;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+
+.icon div:nth-child(5){
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(6){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+    color: #122b40;
+}
+.icon div:nth-child(7){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(8){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(9){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(10){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+}
+.icon div:nth-child(11){
+    background-color: #1bbd36;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50px;
+    color: #010180;
+}
+
+.img-1{
+    line-height: 100px;
+    text-align: center;
+    color: #000000;
+}
+.img-1 div{
+    margin: 5px;
+    margin-top: 2px;
+    text-align: center;
+    color: #000000;
+}
+.img-1 div:nth-child(1){
+    background-color: gray;
+    width: 100%;
+    height: 510px;
+    line-height: 500px;
+    float: left;
+    clear: right;
+}
+.img-1 div:nth-child(2){
+    background-color: gray;
+    width: 100%;
+    height: 200px;
+    line-height: 200px;
+    float: left;
+
+}
+.img-1 div:nth-child(3){
+    background-color: gray;
+    width: 500px;
+    height: 300px;
+    line-height: 300px;
+    float: left;
+
+}
+.img-1 div:nth-child(4){
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+    line-height: 300px;
+    float: left;
+}
+.img-1 div:nth-child(5){
+    background-color: gray;
+    width: 266px;
+    height: 200px;
+    line-height: 200px;
+    float: left;
+}
+img{
+    width: 19.6%;
+    height: 100%;
+    border-style: none;
+    vertical-align: middle;
+}
+.rm{
+    padding: 8px 20px;
+    background: #1bbd36;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+    /*padding: 8px 20px;*/
+    margin-top: 10px;
+}
+.rm2{
+    padding: 8px 20px;
+    background: rgb(255, 142, 51);
+    color: #ffffff;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+    /*padding: 8px 20px;*/
+    margin-top: 10px;
+}
+
+
