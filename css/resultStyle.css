@@ -199,15 +199,16 @@ p {
 }
 .btn-primary2 {
     color: #fff;
-    background-color: #ff6000;
+    background-color: #ff8f0c;
     border-color: #ff6000;
 }
 
 .btn-primary2:hover {
     color: #fff;
-    background-color: #0cd6ff;
+    background-color: #ff6000;
     border-color: orangered;
-    color: red;
+    /*color: red;*/
+    box-shadow: 5px 0 15px -1px rgb(0, 244, 255);
 }
 .mb20 {
     margin-bottom: 20px;
@@ -298,7 +299,7 @@ p {
 }
 
 .price-content-wrapper {
-    height: 400px;
+    height:100%;
     overflow: hidden;
 }
 
@@ -346,13 +347,13 @@ span {
     border-radius: 50%;
 }
 img {
-    /*height: 50%;*/
-    /*width: 50%;*/
     width: 120px;
     height: 120px;
-
     margin: 0 0 0 28%;
 }
+/*img:hover{*/
+/*    box-shadow: 5px 5px 50px 5px rgb(173, 173, 173);*/
+/*}*/
 
 *, ::after, ::before {
     box-sizing: border-box;
