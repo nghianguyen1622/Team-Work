@@ -208,7 +208,7 @@ p {
     background-color: #ff6000;
     border-color: orangered;
     /*color: red;*/
-    box-shadow: 5px 0 15px -1px rgb(0, 244, 255);
+    box-shadow: 5px 0 15px -1px #fcf8e3;
 }
 .mb20 {
     margin-bottom: 20px;
@@ -321,6 +321,18 @@ p {
     position: relative;
     z-index: 1;
     margin-top: 50px;
+}
+.why-choose-us-content:hover{
+    -webkit-transition-duration: 800ms;
+    -o-transition-duration: 800ms;
+    transition-duration: 800ms;
+    background-color: #ffffff;
+    padding: 80px 30px 50px;
+    border-radius: 10px;
+    box-shadow: 4px 0 20px 1px rgba(0, 0, 0, 0.15);
+    position: relative;
+    z-index: 1;
+    margin-top: 45px;
 }
 *, ::after, ::before {
     box-sizing: border-box;

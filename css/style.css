@@ -629,6 +629,7 @@ a:hover {
 .footer {
 	background:#1BBD36;
 	padding:15px 22px;
+
 }
 
 ul.social-network {
@@ -1405,7 +1406,6 @@ a:hover,a:focus{
 .group-diary p{
     font-family: "Work Sans", sans-serif;
     font-size: 14px;
-    color: black;
 }
 .numberGr{
     text-align: center;
